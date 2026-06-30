@@ -143,5 +143,4 @@ Ou seja:
 # Desenvolvido por
 
 **Isabela Maria Ferreira dos Santos**
-
-Projeto desenvolvido para a disciplina de Desenvolvimento Web 1 (DW1) - 2º Bimestre.
+DW1 2°BIMESTRE
