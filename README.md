@@ -5,7 +5,7 @@
 
 O Mercado Tangerinas Felizes é um sistema desenvolvido para a disciplina de Desenvolvimento Web 1 (DW1).
 
-O objetivo do projeto é simular um pequeno mercado, permitindo que o usuário consulte informações dos produtos cadastrados no banco de dados.
+O objetivo do projeto é simular um mercado, permitindo que o usuário consulte informações dos produtos cadastrados no banco de dados.
 
 A página foi desenvolvida utilizando HTML, CSS e JavaScript. Já o servidor foi desenvolvido em Node.js utilizando o framework Express. Os dados ficam armazenados em um banco de dados PostgreSQL.
 
